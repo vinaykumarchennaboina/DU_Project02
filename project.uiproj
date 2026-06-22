@@ -1,0 +1,6 @@
+{
+  "Name": "DU_Practice02",
+  "ProjectType": "Process",
+  "Description": "Working on Intelligent Keyword Classifier",
+  "MainFile": "Main.xaml"
+}

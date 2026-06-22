@@ -1,0 +1,1252 @@
+05/30/2026 19:05:09 => [Trace] Debug started for file: Main
+05/30/2026 19:05:09 => [Information] DU_Practice02 execution started
+{
+  "message": "DU_Practice02 execution started",
+  "level": "Information",
+  "logType": "Default",
+  "timeStamp": "19:05:09",
+  "fileName": "Main",
+  "initiatedBy": "Studio",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:09 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\Invoice 1.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:05:09",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:09 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:05:09",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:09 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:05:09",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:11 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:05:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:11 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:05:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:12 => [Trace] Classified type: Geeks.Incoming.Invoices
+{
+  "message": "Classified type: Geeks.Incoming.Invoices",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:05:12",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:12 => [Information] Confience:  0.7528014
+{
+  "message": "Confience:  0.7528014",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:05:12",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:12 => [Information] Confidence Score is less than 75%, starting to train
+{
+  "message": "Confidence Score is less than 75%, starting to train",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:05:12",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:05:12 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:05:12",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:09 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:09",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:09 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 1.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 1.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:09",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:10 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\Invoice 2.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:10",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:10 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:10",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:10 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:10",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:10 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:10",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:10 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:10",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:11 => [Trace] Classified type: Geeks.Incoming.Invoices
+{
+  "message": "Classified type: Geeks.Incoming.Invoices",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:11 => [Information] Confience:  0.7450428
+{
+  "message": "Confience:  0.7450428",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:11 => [Information] Confidence Score is less than 75%, starting to train
+{
+  "message": "Confidence Score is less than 75%, starting to train",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:11 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:11",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:17 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:17",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:17 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 2.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 2.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:17",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:18 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\invoice 3.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:18",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:18 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:18",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:18 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:18",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:22 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:22",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:22 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:22",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:23 => [Trace] Classified type: Geeks.Incoming.Invoices
+{
+  "message": "Classified type: Geeks.Incoming.Invoices",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:23",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:23 => [Information] Confience:  0.7313634
+{
+  "message": "Confience:  0.7313634",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:23",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:23 => [Information] Confidence Score is less than 75%, starting to train
+{
+  "message": "Confidence Score is less than 75%, starting to train",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:23",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:23 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:23",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:33 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:33",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:33 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\invoice 3.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\invoice 3.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:33",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:33 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\Invoice 4.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:33",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:33 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:33",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:33 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:33",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Trace] Classified type: Geeks.Incoming.Invoices
+{
+  "message": "Classified type: Geeks.Incoming.Invoices",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Information] Confience:  0.7003708
+{
+  "message": "Confience:  0.7003708",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Information] Confidence Score is less than 75%, starting to train
+{
+  "message": "Confidence Score is less than 75%, starting to train",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:35 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.PresentClassificationStation\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:35",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:45 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.TrainClassifiersScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:45",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:45 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Invoice 4.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.Training.IntelligentKeywordClassifierTrainer\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Invoice 4.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:45",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:45 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\Receipt02.PNG
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt02.PNG",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:45",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:45 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:45",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:45 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt02.PNG","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt02.PNG\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:45",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:47 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt02.PNG"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt02.PNG\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:47",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:47 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt02.PNG"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt02.PNG\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:47",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Trace] Classified type: Geeks.Incoming.Receipts
+{
+  "message": "Classified type: Geeks.Incoming.Receipts",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Information] Confience:  1
+{
+  "message": "Confience:  1",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Information] Validation Not Required
+{
+  "message": "Validation Not Required",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\Receipt03.png
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt03.png",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:48 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt03.png","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt03.png\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:48",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:49 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt03.png"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt03.png\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:49",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:49 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\Receipt03.png"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\Receipt03.png\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:49",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Trace] Classified type: Geeks.Incoming.Receipts
+{
+  "message": "Classified type: Geeks.Incoming.Receipts",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Information] Confience:  1
+{
+  "message": "Confience:  1",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Information] Validation Not Required
+{
+  "message": "Validation Not Required",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\w4-01.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w4-01.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:50 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w4-01.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w4-01.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:50",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w4-01.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w4-01.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w4-01.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w4-01.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Trace] Classified type: Geeks.Incoming.W4
+{
+  "message": "Classified type: Geeks.Incoming.W4",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Information] Confience:  1
+{
+  "message": "Confience:  1",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Information] Validation Not Required
+{
+  "message": "Validation Not Required",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Information] Processing File: C:\Users\VINAY KUMAR\Documents\UiPath\DU_Practice02\InputFiles\w9-01.pdf
+{
+  "message": "Processing File: C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w9-01.pdf",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.TaxonomyManagement.LoadTaxonomy\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:06:58 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DigitizeDocument","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w9-01.pdf","model":"UiPath.OCR.Activities.UiPathDocumentOCR"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DigitizeDocument\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w9-01.pdf\",\"model\":\"UiPath.OCR.Activities.UiPathDocumentOCR\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:06:58",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:01 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w9-01.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.ClassifyDocumentScope\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w9-01.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:07:01",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:01 => [Trace] {"activityName":"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier","org":"675597b8-3b0f-4cbf-b092-beb4dc89bbcd","tenant":"bb8aa851-a86e-4c82-8368-1706ba14926e","user":"durgaprasadr@prasannaprojects.com","file":"C:\\Users\\VINAY KUMAR\\Documents\\UiPath\\DU_Practice02\\InputFiles\\w9-01.pdf"}
+{
+  "message": "{\"activityName\":\"UiPath.IntelligentOCR.Activities.DocumentClassification.IntelligentKeywordClassifier\",\"org\":\"675597b8-3b0f-4cbf-b092-beb4dc89bbcd\",\"tenant\":\"bb8aa851-a86e-4c82-8368-1706ba14926e\",\"user\":\"durgaprasadr@prasannaprojects.com\",\"file\":\"C:\\\\Users\\\\VINAY KUMAR\\\\Documents\\\\UiPath\\\\DU_Practice02\\\\InputFiles\\\\w9-01.pdf\"}",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:07:01",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:02 => [Trace] Classified type: Geeks.Incoming.W9
+{
+  "message": "Classified type: Geeks.Incoming.W9",
+  "level": "Trace",
+  "logType": "User",
+  "timeStamp": "19:07:02",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:02 => [Information] Confience:  1
+{
+  "message": "Confience:  1",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:07:02",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:02 => [Information] Validation Not Required
+{
+  "message": "Validation Not Required",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:07:02",
+  "fileName": "Main",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
+05/30/2026 19:07:02 => [Information] DU_Practice02 execution ended in: 00:01:53
+{
+  "message": "DU_Practice02 execution ended",
+  "level": "Information",
+  "logType": "Default",
+  "timeStamp": "19:07:02",
+  "fileName": "Main",
+  "totalExecutionTimeInSeconds": 113,
+  "totalExecutionTime": "00:01:53",
+  "jobId": "c9920667-e9aa-4b17-981c-a03d9a48ab4b",
+  "robotName": "durgaprasadr@prasannaprojects.com-attended",
+  "machineId": 258749,
+  "robotVersion": "26.0.194-cloud.23306",
+  "userKey": "d78c588f-078a-4383-bad8-3e8c34d80a68",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 319337,
+  "businessOperationId": "aef5ca88ddea4f38abc46f775dfdf757-bba8829c50744d4ca6d81e77eb4459e3"
+}
